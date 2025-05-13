@@ -7,13 +7,13 @@ User Interface
 
 **Solution 1:** We ended up resizing where the text was registered so it fit the text box properly
 
-**Problem 2:** We created a date picker for the ui, however the formatting was wrong
+**Problem 2:** We created a date picker for the ui, however the formatting was wrong as it came in ymd
 
-**Solution 2:** We had to reformat the date so it worked properly
+**Solution 2:** We had to reformat the date so it came in the form dmy instead
 
-**Problem 3:**
+**Problem 3:** Some background colours conflicted with the colour of the text
 
-**Solution 3:**
+**Solution 3:** The colour of the text was also included in the theme changing
 
 Frontend
 --------
@@ -21,13 +21,13 @@ Frontend
 
 **Solution 1:** We needed to format the code to accept enums
 
-**Problem 2:**
+**Problem 2:** There was an overflow error with the user details due to it being in a column
 
-**Solution 2:**
+**Solution 2:** We decided that implementing a scrollable list would be better as it would fix the overflow error
 
-**Problem 3:**
+**Problem 3:** We had a backend server made to run locally to server the frontend for our project. However, some group members struggled to get that working on their own devices.
 
-**Solution 3:**
+**Solution 3:** We developed an 'Offline Mode' when logging in that enabled users to bypass the requirement of a backend and instead, using mock data.
 
 Backend
 -------
