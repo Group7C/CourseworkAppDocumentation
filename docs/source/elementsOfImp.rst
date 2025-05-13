@@ -7,9 +7,9 @@ User Interface
 
 **Solution 1:** We ended up resizing where the text was registered so it fit the text box properly
 
-**Problem 2:**
+**Problem 2:** We created a date picker for the ui, however the formatting was wrong
 
-**Solution 2:**
+**Solution 2:** We had to reformat the date so it worked properly
 
 **Problem 3:**
 
@@ -17,9 +17,9 @@ User Interface
 
 Frontend
 --------
-**Problem 1:**
+**Problem 1:** The enums weren't being formatted properly
 
-**Solution 1:**
+**Solution 1:** We needed to format the code to accept enums
 
 **Problem 2:**
 
