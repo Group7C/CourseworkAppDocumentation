@@ -17,4 +17,3 @@ Contents
    elementsOfImp
    setUpProject
    mainComponents
-   relevantThemes
