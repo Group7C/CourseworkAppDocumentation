@@ -55,6 +55,7 @@ Add and edit tasks
 ------------------
 
 1. **Create, add and edit task properties**
+  
    - **Title**: Not optional, a title for the task is required.
    - **Description**: This adds further content related to the task to provide further detail.
    - **Priority Level**: Helps users visualise which tasks need to be finished first.
@@ -78,7 +79,7 @@ Share the project
 Start managing your project
 ---------------------------
 
-   From your Projects Dashboard, you can now:
+From your Projects Dashboard, you can now:
 
    - Drag and drop the task amongst the desired location at the ``kanban board`` section.
    - From the ``progress``section, users can see a visualisation showing the task completion(s) for the project.
