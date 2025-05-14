@@ -36,16 +36,16 @@ Add/Join and edit Projects.
    - *(Optional)* Add in ``Google Drive`` and ``Discord Link``.
    - Select ``Create New Project``.
 
-3. **How to write the details in the project setup**
+2. **How to write the details in the project setup**
 
-   - **Project Name**: Input must be less 50 characters or less but not empty.
-   - **Join Code**: Set a ``join code`` (6–10 characters, must include at least one number or special character).
+   - **Project Name**: This is how the project will be identified by members.
+   - **Join Code**: Set a ``join code``, this is required to join a project.
    - **Deadline**: Choose a due date for the overall project.
    - **Notification Frequency**: Choose from the dropdown how often members should receive notifications.
    - **Discord link**: An optional discord invite link can be pasted here, to link the project to a discord server.
    - **Google Drive link**:  An optional Google Drive invite link can be pasted here, to link the project to a Google Drive server.
 
-4. **Edit Project**
+3. **Edit Project**
    - Contd. with the same properties as Add/Join project.
    - Project memebers can be removed by clicking the x in their name.
    - Click on ``Save Changes`` to implement the edit.
@@ -54,40 +54,42 @@ Add/Join and edit Projects.
 Add and edit tasks
 ------------------
 
-1. **How to create and add task**
-   - **Title**: Input must be 
-   - **Description**:
-   - **Priority Level**:
-   - **Due Date**:
-   - **Notification**:
-   - **This belongs to**:
-   - **Task's Weight**:
-   - **Tag**:
-   - **Asignees's**:#
+1. **Create, add and edit task properties**
+   - **Title**: Not optional, a title for the task is required.
+   - **Description**: This adds further content related to the task to provide further detail.
+   - **Priority Level**: Helps users visualise which tasks need to be finished first.
+   - **Due Date**: This the date for when the task is due
+   - **Notification**:Choose from the dropdown how often members should receive notifications.
+   - **This belongs to**: Tasks can be a sub-task of another task. 
+   - **Task's Weight**: This is the weight percentage assigned to the task.
+   - **Tag**: Tasks can be given tags to help categorise them.
+   - **Asignees's**: These are the members who are working on this task alongside their permission.
+   - **How to edit a task**:
+    - First select the taks that you want to edit.
+    - Contd. with the ``How to create and add task`` properties.
+    - Click on ``Save Changes`` to implement the edit.
+    - Users are also able to delete task by clicking on ``Delete Task``.
 
-2. **How to edit task**
-   - First select the taks that you want to edit.
-   - Contd. with the ``How to create and add task`` properties.
-   - Click on ``Save Changes`` to implement the edit.
-   -  Users are also able to delete task by clicking on ``Delete Task``.
-
- Share the project
- -----------------
-
+Share the project
+------------------
    - Share the Project UID and Join Code with your teammates so they can join.
-   - They can enter this on their dashboard under **“Join Project”**.
+   - They can enter this on their dashboard under **“Add/Join Project”**.
 
 Start managing your project
 ---------------------------
 
-   From your Project Dashboard, you can now:
+   From your Projects Dashboard, you can now:
 
-   - Create and assign tasks
-   - Start tracking attendance
-   - Get notifications according to the frequency that was set.
-   - Visualise the deadline.
-   - Set up communication channels
-   - Generate reports
+   - Drag and drop the task amongst the desired location at the ``kanban board`` section.
+   - From the ``progress``section, users can see a visualisation showing the task completion(s) for the project.
+   - From the ``meetings`` section, we can schedule and record meeting(s). 
+   - From the ``progress`` section, users can track the progress made.
+   - From the ``details`` section, users can read the project deadline and copy the google drive and discord links.
+
+How to generate contribution reports
+-------------------------------------
+- On the ``Projects`` screen, the ``progress`` section includes a ``contribution report`` button that creates, and allows you to download a pdf containing the report.
+
 
 Tips and Best Practices
 -----------------------
